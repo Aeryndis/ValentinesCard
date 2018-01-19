@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ValentinesCard</string>
+    <string name="heart">\u2661 \u2661 \u2661</string>
+    <string name="happy_val">Happy Valentines Day!</string>
+    <string name="note">\u266B</string>
+    <string name="footer">You make my heart strings sing</string>
+</resources>
